@@ -2,7 +2,7 @@
 🎮🔫 Simple 3D scene with graphical ray tracing algorithms
 
 ### 1) "make"
-### 2) run with argument in "map" folder
+### 2) run with argument in "maps" folder
 
 This is a group project that we did together with team mate from school21.
 
