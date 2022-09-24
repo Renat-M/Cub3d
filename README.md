@@ -3,6 +3,7 @@
 
 ### 1) "make"
 ### 2) run with argument in "maps" folder
+### 3) WASD to move, arrows or mouse to turn.
 
 This is a group project that we did together with team mate from school21.
 
